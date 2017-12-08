@@ -3,7 +3,7 @@ import json
 
 app = Flask(__name__)
 jData = json.loads(open('./resturant.json').read())
-data=jData["Resturant"]
+data=jData["Restaurant"]
 # print (data[0]["id"])
 
 @app.route('/')
