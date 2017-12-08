@@ -1,0 +1,7 @@
+{"Restaurant":[ 
+{"id" : "1",  "Restaurantname": "Bareburger" , "Cheif": "Tim", "Server": "phill"},	
+{"id" : "2",  "Restaurantname": "Chinahouse" , "Cheif": "Lary", "Server": "Mary"},
+{"id" : "3",  "Restaurantname": "Chipolet" , "Cheif": "Jose", "Server": "lisa"},
+{"id" : "4",  "Restaurantname": "popeyes", "Cheif":"thomas", "Server": "sara"},
+{"id" : "5",  "Restaurantname": "keyfoods" , "Cheif": "brad", "Server": "bob"} 
+]}
